@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 A study to classify NFT investments based on profit and loss outcomes using machine learning techniques. Applied data preprocessing, feature selection, and classification models to analyze market trends and evaluate investment potential.
 
-## Dataset Link- https://huggingface.co/datasets/MLNTeam-Unical/NFT-70M_transactions
+Dataset Link- https://huggingface.co/datasets/MLNTeam-Unical/NFT-70M_transactions
 
 ## 🧠 Key Objectives
 - Analyze NFT trading data and trends.
