@@ -24,7 +24,7 @@ Dataset Link- https://huggingface.co/datasets/MLNTeam-Unical/NFT-70M_transaction
 ## 📊 Evaluation Metrics
 - All the five algorithm got accuary of 99% average.
 - Confusion matrix
-- Classification REport (Precision)
+- Classification Report (Precision)
 
 ## 📌 Conclusion
 In this project, we developed a machine learning model to classify NFT investments as either profit or loss based on selected attributes. Using five different classification algorithms - Linear Discriminative Analysis, K-Nearest Neighbors (KNN), Random Forest, Naive Bayes, and Artificial Neural Network - we achieved consistently high performance across the board.
